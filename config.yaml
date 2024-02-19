@@ -1,0 +1,10 @@
+sources:
+  - rtsp://admin:1234567s@10.160.30.13:554/Streaming/Channels/101
+  - rtsp://admin:1234567s@10.160.30.13:554/Streaming/Channels/201
+  #- rtsp://admin:1234567s@10.160.30.13:554/Streaming/Channels/301
+  - rtsp://admin:1234567s@10.160.30.13:554/Streaming/Channels/401
+  #- rtsp://admin:1234567s@10.160.30.13:554/Streaming/Channels/501
+  - rtsp://admin:1234567s@10.160.30.13:554/Streaming/Channels/601
+  #- rtsp://admin:s1234567@10.160.31.42:554/Streaming/channels/101
+  - rtsp://admin:s1234567@10.160.31.42:554/Streaming/channels/301
+  - rtsp://admin:s1234567@10.160.31.42:554/Streaming/channels/401

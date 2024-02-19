@@ -8,7 +8,6 @@ The project aims to provide a flexible and efficient solution for real-time imag
 
 ## Dependencies
 
-```bash
-    python 3.8.18
-    opencv-python 4.8.1.78
-```
+This project has been using **Python 3.10.13**.
+
+Construct corresponding environment and install pip packages following `requirements.txt`
